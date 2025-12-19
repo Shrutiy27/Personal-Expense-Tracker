@@ -16,25 +16,34 @@ A user‑friendly Personal Expense Tracker app built with modern technologies to
 
 ---
 
-## 🚀 Technologies Used
-
-| Frontend | Backend | Database / Storage |
-|----------|---------|-------------------|
-| React / Next.js / TypeScript | — | LocalStorage / IndexedDB |
-
-*If you are using additional libraries like Tailwind, Radix UI, Chart.js, etc., list them here*
-
----
-
 ## 📁 Folder Structure
 
-📦 Personal‑Expense‑Tracker
-┣ 📂 app
-┣ 📂 components
-┣ 📂 styles
-┣ 📜 .gitignore
-┣ 📜 package.json
-┣ 📜 README.md
+Personal Expense Tracker/
+├── app/
+│   ├── layout.tsx           # Main layout
+│   ├── page.tsx            # Home page
+│   └── globals.css         # Styles
+│
+├── components/
+│   ├── ui/                 # Button, Card, Dialog, etc.
+│   ├── transaction-list.tsx
+│   ├── transaction-form.tsx
+│   ├── budget-card.tsx
+│   ├── dashboard-overview.tsx
+│   └── ... (other components)
+│
+├── hooks/
+│   └── use-expense-tracker.ts  # Main app logic
+│
+├── lib/
+│   ├── types.ts            # Data types
+│   ├── storage.ts          # Save/load data
+│   └── utils.ts            # Helper functions
+│
+├── .gitignore              # Files to ignore
+├── package.json            # Dependencies
+├── README.md               # Project info
+└── next.config.mjs         # Settings
 
 ---
 
