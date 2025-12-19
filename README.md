@@ -80,22 +80,22 @@ Export your data if needed
 
 Dahsnoard
 
-    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c423579-8f53-4518-a6cc-eb7d51b3cdc4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c423579-8f53-4518-a6cc-eb7d51b3cdc4" />
 
 
 Transactions
 
-    <img width="1920" height="1080" alt="Screenshot 2025-12-19 192832" src="https://github.com/user-attachments/assets/bbf5134e-4467-49ef-b86e-7ab966593416" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 192832" src="https://github.com/user-attachments/assets/bbf5134e-4467-49ef-b86e-7ab966593416" />
 
 
 Budgets
 
-    <img width="1920" height="1080" alt="Screenshot 2025-12-19 192839" src="https://github.com/user-attachments/assets/c34fae2e-accd-44dc-9216-cc3178d45624" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 192839" src="https://github.com/user-attachments/assets/c34fae2e-accd-44dc-9216-cc3178d45624" />
 
 
 Recurring Transactions
 
-    <img width="1920" height="1080" alt="Screenshot 2025-12-19 192845" src="https://github.com/user-attachments/assets/cd2706ab-d39e-4d4c-8ca4-9eac844dd1ca" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 192845" src="https://github.com/user-attachments/assets/cd2706ab-d39e-4d4c-8ca4-9eac844dd1ca" />
 
 
 ---
