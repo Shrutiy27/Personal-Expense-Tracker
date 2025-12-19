@@ -36,16 +36,14 @@ A user‑friendly Personal Expense Tracker app built with modern technologies to
 ┣ 📜 package.json
 ┣ 📜 README.md
 
-
 ---
 
 ## 🛠️ Installation
 
 1. **Clone the repository**
-```bash
 git clone https://github.com/Shrutiy27/Personal-Expense-Tracker.git
 
-2. Go to project directory
+3. Go to project directory
 cd Personal-Expense-Tracker
 
 3.Install dependencies
@@ -105,7 +103,6 @@ Push to the branch (git push origin feature/xyz)
 Open a Pull Request
 
 ---
-
 
 🌟 Follow Me
 
